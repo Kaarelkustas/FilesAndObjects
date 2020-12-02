@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesAndObjects", "FilesAndObjects\FilesAndObjects.csproj", "{EA1A65D2-0638-4FD1-96E9-CA8CF8EEDCC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesAndObjects", "FilesAndObjects\FilesAndObjects.csproj", "{EA1A65D2-0638-4FD1-96E9-CA8CF8EEDCC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D1FD718A-D61D-4A3A-9680-F251F7FC2E16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D1FD718A-D61D-4A3A-9680-F251F7FC2E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{2D03221B-E61F-4187-A401-103A76187596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadShoppingList", "ReadShoppingList\ReadShoppingList.csproj", "{F5144466-35DA-47D7-A28B-2009BD9F04A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{D1FD718A-D61D-4A3A-9680-F251F7FC2E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FD718A-D61D-4A3A-9680-F251F7FC2E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FD718A-D61D-4A3A-9680-F251F7FC2E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D03221B-E61F-4187-A401-103A76187596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D03221B-E61F-4187-A401-103A76187596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D03221B-E61F-4187-A401-103A76187596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D03221B-E61F-4187-A401-103A76187596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5144466-35DA-47D7-A28B-2009BD9F04A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5144466-35DA-47D7-A28B-2009BD9F04A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5144466-35DA-47D7-A28B-2009BD9F04A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5144466-35DA-47D7-A28B-2009BD9F04A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
