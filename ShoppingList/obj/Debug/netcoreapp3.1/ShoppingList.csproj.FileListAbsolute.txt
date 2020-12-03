@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
